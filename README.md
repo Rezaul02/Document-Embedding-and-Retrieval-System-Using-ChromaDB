@@ -11,7 +11,7 @@ langchain: A framework for building applications with large language models (LLM
 
 langchain-community: A community-driven extension of LangChain that includes additional tools and integrations.
 
-##✔ Installation process in the Jypter Notebook
+### Installation process in the Jypter Notebook
 !pip install chromadb
 !pip install tiktoken
 !pip install langchain
